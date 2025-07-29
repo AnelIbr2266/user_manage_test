@@ -9,7 +9,7 @@
 ## Установка
 ### Шаги установки
 ```bash
-git clone https://github.com/yourrepo/user_manage.git](https://github.com/AnelIbr2266/user_manage_test.git
+git clone https://github.com/AnelIbr2266/user_manage_test.git
 cd user_manage
 npm install
 ```
